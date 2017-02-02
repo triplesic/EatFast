@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "dakduan-action-executor",
+    "name": "dakduan-action",
+    "region": "ap-southeast-1"
+  },
+  "api": {
+    "id": "lqlfnyfcp0",
+    "module": "dakduan"
+  }
+}
